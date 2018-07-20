@@ -1,15 +1,5 @@
 # Personnal website
 
-- Web developer
-
-- From paris
-
-- 4 years of experience
-
-- Contact for freelance (TW,GH,LK)
-
-- photo
-
 - Case studies (Mettre en avant les compétences)
 
 	- Emiway/LMI (WP, Elasticsearch)
